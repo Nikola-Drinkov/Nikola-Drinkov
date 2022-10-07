@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikola-Drinkov
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java in SoftUni
+- 🌱 I’m currently learning Java at SoftUni
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikola-Drinkov&show_icons=true&theme=synthwave)
 <!---
